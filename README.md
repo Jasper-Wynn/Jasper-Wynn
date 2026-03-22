@@ -101,29 +101,56 @@
 
 ---
 
-## 🚀 核心节点 // Top Projects
+---
 
-<table align="center" width="100%">
+## 🚀 核心项目 // Core Projects
+
+<table align="center">
 <tr>
-<td width="50%">
-  <div align="center">
-    <h3>🔐 服务弱口令扫描器</h3>
-    <br>
-    <p>基于 Python + Nmap 的服务弱口令爆破工具，支持多种协议扫描</p>
-    <a href="https://github.com/Jasper-Wynn/python-nmap-brute-force">
-      <img src="https://img.shields.io/badge/Execute_Project-000000?style=for-the-badge&logo=github&logoColor=00FF00" alt="View Project"/>
-    </a>
-  </div>
+<td width="48%">
+
+<div align="center">
+
+### 🔐 服务弱口令扫描器
+**Weak Password Scanner**
+
+基于 Python + Nmap 的服务弱口令爆破工具，支持多种协议扫描与自动化检测。
+
+<br>
+
+**技术栈:**
+
+`Python` `Nmap` `Socket` `Threading` `Regex`
+
+<br>
+
+[![Execute Project](https://img.shields.io/badge/▶_ACCESS-000000?style=for-the-badge&logo=github&logoColor=00F0FF&color=0A0E27&borderColor=00F0FF)](https://github.com/Jasper-Wynn/python-nmap-brute-force)
+
+</div>
+
 </td>
-<td width="50%">
-  <div align="center">
-    <h3>🚢 DevOps 自动化平台</h3>
-    <br>
-    <p>深度集成 Docker + Git + K8s，实现自动化的 CI/CD 流水线平台</p>
-    <a href="https://github.com/Jasper-Wynn/devops-platform">
-      <img src="https://img.shields.io/badge/Execute_Project-000000?style=for-the-badge&logo=github&logoColor=00FF00" alt="View Project"/>
-    </a>
-  </div>
+<td width="4%"></td>
+<td width="48%">
+
+<div align="center">
+
+### 🚢 DevOps 自动化平台
+**DevOps Automation Platform**
+
+深度集成 Docker + Git + K8s，实现完全自动化的 CI/CD 流水线部署平台。
+
+<br>
+
+**技术栈:**
+
+`Docker` `Kubernetes` `Git` `Jenkins` `Terraform`
+
+<br>
+
+[![Execute Project](https://img.shields.io/badge/▶_ACCESS-000000?style=for-the-badge&logo=github&logoColor=00F0FF&color=0A0E27&borderColor=00F0FF)](https://github.com/Jasper-Wynn/devops-platform)
+
+</div>
+
 </td>
 </tr>
 </table>
