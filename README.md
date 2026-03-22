@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ 工具库 // Tools
+## 🛠️ 工具库 (Tools)
 
 日常开发中积累的实用工具集，提升开发效率。
 
@@ -66,7 +66,7 @@
 
 ---
 
-## 🤖 AI 学习 // AI Learning
+## 🤖 AI 学习 (AI Learning)
 
 探索人工智能技术，实践机器学习与深度学习项目。
 
@@ -118,7 +118,7 @@
 
 ---
 
-## ⚙️ 运维自动化 // DevOps Automation
+## ⚙️ 运维自动化 (DevOps Automation)
 
 构建高效、稳定的自动化运维体系。
 
@@ -170,7 +170,7 @@ Docker + K8s 容器化部署方案与最佳实践。
 
 ---
 
-## 📊 数据中心 // Analytics
+## 📊 数据中心 (Analytics)
 
 <p align="center">
   <!-- GitHub Stats - 自定义赛博蓝主题 -->
@@ -189,7 +189,14 @@ Docker + K8s 容器化部署方案与最佳实践。
 
 <div align="center">
 
-<i><b>"Code is poetry. Automation is art."</b></i>
+<!-- 炫彩渐变文字 -->
+<img src="https://img.shields.io/badge/星辰大海-FF0080?style=for-the-badge&logoColor=ffffff&color=FF0080" />
+<img src="https://img.shields.io/badge/世界和平-00FFFF?style=for-the-badge&logoColor=000000&color=00FFFF" />
+
+<br><br>
+
+<!-- 英文小字 -->
+<sub><i>Dream big, code bigger.</i></sub>
 
 <br>
 <br>
