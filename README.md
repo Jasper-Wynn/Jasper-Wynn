@@ -6,11 +6,61 @@
 </a>
 
 <!-- 霓虹打字效果 -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&lines=System+Initializing...;全栈开发进行中;构建实用工具;探索AI技术;自动化运维实践&background=0A0E2700" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=System+Initializing...;全栈开发进行中;构建实用工具;探索AI技术;自动化运维实践" alt="Typing SVG" />
 
 </div>
+
+---
+
+## 💻 全栈开发 (Full-Stack)
+
+从前端到后端，从桌面到移动端，构建完整的应用解决方案。
+
+<table>
+<tr>
+  <td width="48%">
+
+<div align="center">
+
+### 🌐 Web 应用
+**Web Applications**
+
+基于主流框架构建现代化 Web 应用，响应式设计，性能优化。
+
+<br>
+
+**技术栈:** `React` `Vue.js` `Next.js` `TailwindCSS`
+
+<br>
+
+[![View](https://img.shields.io/badge/▶_查看详情-000000?style=for-the-badge&logo=github&logoColor=00F0FF&color=0A0E27&borderColor=00F0FF)](https://github.com/Jasper-Wynn)
+
+</div>
+
+</td>
+  <td width="4%"></td>
+  <td width="48%">
+
+<div align="center">
+
+### 📱 移动端开发
+**Mobile Development**
+
+跨平台移动应用开发，原生体验，流畅交互。
+
+<br>
+
+**技术栈:** `Flutter` `React Native` `Dart` `Swift`
+
+<br>
+
+[![View](https://img.shields.io/badge/▶_查看详情-000000?style=for-the-badge&logo=github&logoColor=00F0FF&color=0A0E27&borderColor=00F0FF)](https://github.com/Jasper-Wynn)
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -193,12 +243,11 @@ Docker + K8s 容器化部署方案与最佳实践。
 <img src="https://img.shields.io/badge/星辰大海-FF0080?style=for-the-badge&logoColor=ffffff&color=FF0080" />
 <img src="https://img.shields.io/badge/世界和平-00FFFF?style=for-the-badge&logoColor=000000&color=00FFFF" />
 
-<br><br>
+<br>
 
 <!-- 英文小字 -->
 <sub><i>Dream big, code bigger.</i></sub>
 
-<br>
 <br>
 
 <div align="center">
