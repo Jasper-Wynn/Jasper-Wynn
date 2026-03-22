@@ -1,0 +1,88 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Jasper%20Wynn&fontSize=60&fontColor=00FF00&animation=twinkling&fontAlignY=38&desc=Python%20Developer%20|%20Security%20Enthusiast%20|%20DevOps%20Practitioner&descAlignY=60&descAlign=50" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+System...;Developing+DevOps+Automations;Securing+Systems...;Crafting+Python+Tools" alt="Typing SVG" />
+</a>
+
+</div>
+
+## 📡 终端响应 // Terminal Info
+
+```shell
+root@jasper-macbook:~# whoami
+Jasper Wynn
+
+root@jasper-macbook:~# cat /status/current_focus.txt
+[+] Role: Python Developer | Security Enthusiast | DevOps Practitioner
+[+] Focus: DevOps Automation & Vulnerability Scanning tools
+[+] Interests: Docker, Kubernetes, Git, Penetration Testing
+
+root@jasper-macbook:~# ./ping_address.sh
+[+] Ping successful. Reach me at: cjwpython@163.com
+```
+
+## 🛰️ 技术雷达 // Tech Radar
+
+**`> Core Architecture`**  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,bash,linux,docker,kubernetes,aws,git,vim,nginx&theme=dark" />
+  </a>
+</p>
+
+**`> Security Arsenal`**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Network_Scanner-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Penetration_Testing-Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white" />
+</p>
+
+---
+
+## 📊 数据中心 // Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jasper-Wynn&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=ffffff" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jasper-Wynn&theme=matrix&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=ffffff" alt="GitHub Streak" width="48%"/>
+</p>
+
+---
+
+## 🚀 核心节点 // Top Projects
+
+<table align="center" width="100%">
+<tr>
+<td width="50%">
+  <div align="center">
+    <h3>🔐 服务弱口令扫描器</h3>
+    <br>
+    <p>基于 Python + Nmap 的服务弱口令爆破工具，支持多种协议扫描</p>
+    <a href="https://github.com/Jasper-Wynn/python-nmap-brute-force">
+      <img src="https://img.shields.io/badge/Execute_Project-000000?style=for-the-badge&logo=github&logoColor=00FF00" alt="View Project"/>
+    </a>
+  </div>
+</td>
+<td width="50%">
+  <div align="center">
+    <h3>🚢 DevOps 自动化平台</h3>
+    <br>
+    <p>深度集成 Docker + Git + K8s，实现自动化的 CI/CD 流水线平台</p>
+    <a href="https://github.com/Jasper-Wynn/devops-platform">
+      <img src="https://img.shields.io/badge/Execute_Project-000000?style=for-the-badge&logo=github&logoColor=00FF00" alt="View Project"/>
+    </a>
+  </div>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+  <i>"Talk is cheap. Show me the shell."</i>
+  <br><br>
+  <a href="mailto:cjwpython@163.com">
+    <img src="https://img.shields.io/badge/ESTABLISH_CONNECTION-cjwpython@163.com-00FF00?style=for-the-badge&logo=minutemailer&logoColor=black&color=00FF00" alt="Email" />
+  </a>
+</div>
